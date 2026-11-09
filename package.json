@@ -1,0 +1,22 @@
+{
+  "name": "whiff-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "node setup.js",
+    "start": "node src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "@fontsource/bebas-neue": "^5.3.0",
+    "@fontsource/inter": "^5.3.0",
+    "@napi-rs/canvas": "^1.0.11",
+    "discord.js": "^14.27.0",
+    "dotenv": "^17.4.2"
+  }
+}
